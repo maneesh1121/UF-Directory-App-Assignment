@@ -1,0 +1,30 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+body{
+  background-color: orange;
+  background-image: url("http://identity.ufl.edu/wp-content/uploads/2015/10/gatorhead.gif");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  
+
+}
+table{
+  background-color: white;
+}
+
+h1{
+  background-color: blue;
+  color: white;
+  margin: 15px 10px;
+}
+
+h2{
+  background-color: blue;
+  color: white;
+}
